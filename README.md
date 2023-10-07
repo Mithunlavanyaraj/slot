@@ -152,13 +152,10 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![Output-Image](sample/newapp/static/output.png)
 
 ## HTML VALIDATOR
 
+![Alt text](sample/newapp/static/output.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
-
-
-[def]: sample/newapp/static/output.png
