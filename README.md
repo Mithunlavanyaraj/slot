@@ -154,7 +154,9 @@ Execute the program using runserver command.
 
 
 ## HTML VALIDATOR
-
 ![Alt text](output.png)
+This is the output as we designed in html table format with proper color scheme according to given requirements. The validator also shows no error message .
+
 ## RESULT
+
 The program for creating slot timetable using basic HTML tags is executed successfully.
